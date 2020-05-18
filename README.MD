@@ -1,3 +1,8 @@
+Supports python nested dictionaries of lists example below
+exampele of dictionary:    my_dict2 = {"test":{"alpha":{"start":["9am", "213324"]}}}
+example of path:           path = 'test.alpha.start.1'
+
+
 update_dict(), is to update the dictionary when given the path and the variable to be updated with
 
 append_dict(), when given the path and the variable,
